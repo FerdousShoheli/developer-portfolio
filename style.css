@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .top-banner{
     background-image: url(top-banner.png);
@@ -32,4 +33,9 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
