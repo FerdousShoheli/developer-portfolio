@@ -56,3 +56,16 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-dev-experience{
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-left: 7px solid;    
+}
+#web-dev-experience-2{
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+footer p{
+    text-align:center;
+}
